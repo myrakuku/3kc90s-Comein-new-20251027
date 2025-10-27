@@ -1,9 +1,9 @@
 
 ## Important message
 
-node version: v22.19.0
-Next js: v16.0.0
-Tailwind: v4.1
+    node version: v22.19.0
+    Next js: v16.0.0
+    Tailwind: v4.1
 
 #### 1. Remove Dark Mode & Remove "prefers-color-scheme: dark" on globals.css
 npm uninstall next-themes
